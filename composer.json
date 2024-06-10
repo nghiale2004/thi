@@ -1,0 +1,13 @@
+{
+    "name": "admin/basemvc",
+    "autoload": {
+        "psr-4": {
+            "Admin\\Basemvc\\": "src/"
+        },
+        "files":[
+            "helper.php"
+        ]
+
+    },
+    "require": {}
+}
